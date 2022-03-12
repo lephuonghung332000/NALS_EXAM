@@ -1,0 +1,13 @@
+{
+  "buttons": {
+    "sign_in": "Đăng nhập",
+    "sign_out": "Đăng xuất",
+    "sign_in_fb": "Đăng nhập với Facebook",
+    "sign_in_google": "Đăng nhập với Google",
+    "sign_in_apple": "Đăng nhập với Apple"
+  },
+  "pages": {
+    "home": "Nhà",
+    "page_title": "@page đang hoạt động"
+  }
+}

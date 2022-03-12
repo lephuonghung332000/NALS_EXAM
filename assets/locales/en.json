@@ -1,0 +1,46 @@
+{
+  "buttons": {
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "sign_out": "Sign out",
+    "sign_in_fb": "Sign in with Facebook",
+    "sign_in_google": "Sign in with Google",
+    "sign_in_apple": "Sign in with Apple"
+  },
+  "pages": {
+    "home": "Home",
+    "explore": "Explore",
+    "favourites": "Favourites",
+    "profile": "Profile",
+    "page_title": "@page is working"
+  },
+  "texts": {
+    "welcome": "Welcome",
+    "enter_email": "Enter your email",
+    "password": "Password",
+    "enter_password": "Enter your password",
+    "forgot_password": "Forgot password?",
+    "do_not_have_account": "Don't have an account?",
+    "or_sign_in": "or Sign in with",
+    "first_name": "First name",
+    "enter_first_name": "Enter your first name",
+    "last_name": "Last name",
+    "enter_last_name": "Enter your last name",
+    "phone_number": "Phone number",
+    "enter_phone_number": "Enter your phone number",
+
+    "terms": "Terms",
+    "conditions": "Conditions",
+    "agree_with": "I agree with our",
+    "and": "and",
+    "already_have_account": "Already have an account?"
+  },
+  "validators": {
+    "email_required": "Email is required",
+    "invalid_email": "Invalid email",
+    "password_required": "Password is required",
+    "first_name_required": "First name is required",
+    "last_name_required": "Last name is required",
+    "phone_number_required": "Phone number is required"
+  }
+}
